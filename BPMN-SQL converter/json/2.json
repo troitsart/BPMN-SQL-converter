@@ -1,0 +1,30 @@
+[
+    {
+        "operation_name": null,
+        "collaboration_id": "Collaboration_00laa5q"
+    },
+    {
+        "name": "transit",
+        "id": "Activity_1tyqily",
+        "input_parameters": [
+            {
+                "name": "startTime",
+                "value": "19:00"
+            },
+            {
+                "name": "jhjhjhjjhhjjhjh",
+                "value": "456789"
+            }
+        ]
+    },
+    {
+        "name": "servicetask",
+        "id": "Activity_17dztff",
+        "input_parameters": [
+            {
+                "name": "testservice",
+                "value": null
+            }
+        ]
+    }
+]

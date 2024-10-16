@@ -1,0 +1,105 @@
+[
+    {
+        "operation_name": "SummerTransportation",
+        "collaboration_id": "Collaboration_12m1u5f"
+    },
+    {
+        "name": "loading",
+        "id": "Activity_1ko2cbh",
+        "input_parameters": [
+            {
+                "name": "duration",
+                "value": "10m"
+            },
+            {
+                "name": "startTime",
+                "value": "10:00"
+            },
+            {
+                "name": "weight",
+                "value": "1000kg"
+            },
+            {
+                "name": "type",
+                "value": "water"
+            },
+            {
+                "name": "EKG",
+                "value": "5556"
+            },
+            {
+                "name": "integertest",
+                "value": "3333333"
+            }
+        ]
+    },
+    {
+        "name": "0transit",
+        "id": "Activity_05e9qwt",
+        "input_parameters": [
+            {
+                "name": "startTime",
+                "value": "12:00"
+            },
+            {
+                "name": "endTime",
+                "value": "16:00"
+            },
+            {
+                "name": "place",
+                "value": "Ryazan"
+            }
+        ]
+    },
+    {
+        "name": "unloading",
+        "id": "Activity_06pe20q",
+        "input_parameters": [
+            {
+                "name": "startTime",
+                "value": "16:40"
+            },
+            {
+                "name": "duration",
+                "value": "2h"
+            }
+        ]
+    },
+    {
+        "name": "transit",
+        "id": "Activity_1wzz57k",
+        "input_parameters": [
+            {
+                "name": "startTime",
+                "value": "18:00"
+            },
+            {
+                "name": "endTime",
+                "value": "22:00"
+            },
+            {
+                "name": "place",
+                "value": "St.Petersburg"
+            },
+            {
+                "name": "yupy",
+                "value": "100"
+            }
+        ]
+    },
+    {
+        "name": "true",
+        "id": "Activity_1vamo7n",
+        "input_parameters": []
+    },
+    {
+        "name": "change",
+        "id": "Activity_1i8iwb8",
+        "input_parameters": [
+            {
+                "name": "kek",
+                "value": "kek"
+            }
+        ]
+    }
+]
